@@ -1,0 +1,6 @@
+/build/
+JDBC.*
+
+### VisualStudioCode ###
+.vscode/*
+/nbproject/private/
